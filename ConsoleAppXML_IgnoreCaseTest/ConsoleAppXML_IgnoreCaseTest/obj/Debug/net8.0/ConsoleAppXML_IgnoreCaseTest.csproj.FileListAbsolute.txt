@@ -1,0 +1,15 @@
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\bin\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.exe
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\bin\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.deps.json
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\bin\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.runtimeconfig.json
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\bin\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.dll
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\bin\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.pdb
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.AssemblyInfoInputs.cache
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.AssemblyInfo.cs
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.csproj.CoreCompileInputs.cache
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.sourcelink.json
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.dll
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\refint\ConsoleAppXML_IgnoreCaseTest.dll
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.pdb
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ConsoleAppXML_IgnoreCaseTest.genruntimeconfig.cache
+D:\VS\VSPro\CSharp_XML_IgnoreCase\ConsoleAppXML_IgnoreCaseTest\ConsoleAppXML_IgnoreCaseTest\obj\Debug\net8.0\ref\ConsoleAppXML_IgnoreCaseTest.dll
